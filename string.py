@@ -1,0 +1,12 @@
+name="ate na"
+print(name)
+print(name[0])
+print(name[0:2])
+print(name.upper())
+print(name.lower())
+print(name.strip())
+print(name.replace("t","d"))
+print(name.replace(" ",""))
+print(name.lower().strip().replace(" ",""))
+print(name.replace(" ", ""))
+print(len(name.replace(" ", "")))
